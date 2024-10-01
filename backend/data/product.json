@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Bianchi Specialissima Pantani Frameset",
+    "price": "54999",
+    "description": "Marco Pantani and Bianchi put in some of the most epic stage race performances of all time to take outstanding wins at both the Giro d’Italia and the Tour de France. It’s a feat that only seven riders have ever achieved and that confirmed Il Pirata’s place in cycling history and Italian culture. ",
+    "ratings": "4.8",
+    "image": [
+      {
+        "public_id": "Products/ldlkkyraetn9mf3nhusb",
+        "url": "https://res.cloudinary.com/dofbmu0m5/image/upload/v1727446800/Products/ldlkkyraetn9mf3nhusb.jpg"
+      }
+    ],
+    "category": "Frames and Forks",
+    "seller": "Bianchi",
+    "stock": "20",
+    "numOfReviews" : 5,
+    "reviews": []
+  },
+  {
+    "name": "SIDI GENIUS 10 WOMEN ROAD SHOES 2024",
+    "price": "10500",
+    "description": " The SOFT INSTEP CLOSURE SYSTEM is a wide, anatomically curved strap combined with a soft, thermo-formed EVA pad that distributes pressure evenly over the instep area. ",
+    "ratings": "4.5",
+    "image": [
+      {
+        "public_id": "Products/xn32zw4nagik3inmnixm",
+        "url": "https://res.cloudinary.com/dofbmu0m5/image/upload/v1727447165/Products/xn32zw4nagik3inmnixm.jpg"
+      }
+    ],
+    "category": "Pedals and Cleats",
+    "seller": "LifeCycleBikeShop",
+    "stock": "15",
+    "numOfReviews" : 8,
+    "reviews": []
+  },
+  {
+    "name": "RockShox Lyrik Ultimate",
+    "price": "45050",
+    "description": " Faster. Stronger. Ruthlessly efficient. The new Lyrik is up for anything and down for it all. The most versatile fork in our lineup features a hyper-focused new chassis that’s lighter while still critically stiff to deliver on Lyrik’s legendary performance and party attitude. Lyrik Ultimate packs an orchestra of industry-leading tech like the new Charger 3 damper, ButterCup technology, and the new DebonAir+ air spring. Let Lyrik sing with a fresh signature colorway we call “Heavy Meadow”, inspired by our favorite alpine sufferfests. The new Lyrik Ultimate is here.  ",
+    "ratings": "4.6",
+    "image": [
+      {
+        "public_id": "Products/uryzdirtohzrvrivtchs",
+        "url": "https://res.cloudinary.com/dofbmu0m5/image/upload/v1727449262/Products/uryzdirtohzrvrivtchs.png"
+      }
+    ],
+    "category": "Frames and Forks",
+    "seller": "LifeCycleBikeShop",
+    "stock": "30",
+    "numOfReviews" : 5,
+    "reviews": []
+  }
+]
